@@ -354,8 +354,12 @@ body {
 .dummy-box {
     height: 488;
     background-image: url('/imgs/dummy-img.svg');
-    background-position: top right;
+    background-position: top left;
     background-repeat: no-repeat;
+}
+
+.box-title {
+    padding-left: 700px;
 }
 
 .box-heading {
